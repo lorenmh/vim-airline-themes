@@ -1,5 +1,6 @@
 " Color palette
-let s:gui00 = "#151515"
+"let s:gui00 = "#151515"
+let s:gui00 = "#121212"
 let s:gui01 = "#262626"
 let s:gui02 = "#4f5b66"
 let s:gui03 = "#65737e"
@@ -16,7 +17,8 @@ let s:gui0D = "#0d61ac"
 let s:gui0E = "#c594c5"
 let s:gui0F = "#ab7967"
 
-let s:cterm00 = "233"
+"let s:cterm00 = "233"
+let s:cterm00 = "234"
 let s:cterm01 = "235"
 let s:cterm02 = "59"
 let s:cterm03 = "66"
